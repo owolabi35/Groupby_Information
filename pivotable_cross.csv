@@ -1,0 +1,33 @@
+ID,Name,Type,Department,Store,Quantity,Price per Unit
+1,Apples,Fruit,Produce,Philadephia,100,$0.50 
+2,Oranges,Fruit,Produce,Philadephia,100,$0.60 
+3,Banana,Fruit,Produce,Philadephia,100,$0.30 
+4,Lettuce,Vegetable,Produce,Philadephia,150,$0.20 
+5,Carrots,Vegetable,Produce,Philadephia,150,$0.30 
+6,Cucumber,Vegetable,Produce,Philadephia,150,$0.40 
+7,Salmon,Fish,Butcher,Philadephia,40,$5.00 
+8,Tuna,Fish,Butcher,Philadephia,40,$3.00 
+9,Chicken,Meat,Butcher,Philadephia,80,$1.00 
+10,Beef,Meat,Butcher,Philadephia,80,$2.00 
+11,Whole White Bread,Bread,Bakery,Philadephia,60,$0.70 
+12,Sourdough Bread,Bread,Bakery,Philadephia,200,$0.90 
+13,White Bread,Desert,Bakery,Philadephia,100,$0.50 
+14,Cookies,Desert,Bakery,Philadephia,300,$0.20 
+15,Cake,Desert,Bakery,Philadephia,80,$10.00 
+16,Cupcakes,Fruit,Produce,New York City,12,$3.00 
+17,Apples,Fruit,Produce,New York City,40,$0.63 
+18,Oranges,Fruit,Produce,New York City,150,$0.75 
+19,Banana,Vegetable,Produce,New York City,150,$0.38 
+20,Lettuce,Vegetable,Produce,New York City,150,$0.25 
+21,Carrots,Vegetable,Produce,New York City,225,$0.38 
+22,Cucumber,Fish,Butcher,New York City,225,$0.50 
+23,Salmon,Fish,Butcher,New York City,60,$6.25 
+24,Tuna,Meat,Butcher,New York City,60,$3.75 
+25,Chicken,Meat,Butcher,New York City,120,$1.25 
+26,Beef,Bread,Bakery,New York City,90,$2.50 
+27,Whole White Bread,Bread,Bakery,New York City,300,$0.88 
+28,Sourdough Bread,Bread,Bakery,New York City,150,$1.13 
+29,White Bread,Desert,Bakery,New York City,450,$0.63 
+30,Cookies,Desert,Bakery,New York City,120,$2.50 
+31,Cake,Desert,Bakery,New York City,18,$12.50 
+32,Cupcakes,Desert,Bakery,New York City,60,$3.75 
